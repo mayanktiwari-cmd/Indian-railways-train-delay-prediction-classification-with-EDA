@@ -1,4 +1,4 @@
-# Indian Railways Train Delay Prediction
+ Indian Railways Train Delay Prediction
 
 I built this project to understand what actually causes train delays in India and whether those delays can be predicted from the data available before or during a journey.
 
